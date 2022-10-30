@@ -18,4 +18,6 @@ simgear: https://github.com/Thilo277/FG-Photoscenery-SIMGEAR
 
 flightgear: https://github.com/Thilo277/FG-Photoscenery-FLIGHTGEAR
 
+
+.patch files automatically generated, no editing applied
 Have Fun!
