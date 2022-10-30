@@ -12,11 +12,11 @@ All credits go to him for the patch, i just updated the patches because lines di
 # I am not on windows, how do i use it then?
 - You have to build it yourself, the patched Flightgear, Simgear and FGdata sources can be found here:
 
-fgdata: https://github.com/Thilo277/FG-Photoscenery-FGDATA
+- fgdata: https://github.com/Thilo277/FG-Photoscenery-FGDATA
 
-simgear: https://github.com/Thilo277/FG-Photoscenery-SIMGEAR
+- simgear: https://github.com/Thilo277/FG-Photoscenery-SIMGEAR
 
-flightgear: https://github.com/Thilo277/FG-Photoscenery-FLIGHTGEAR
+- flightgear: https://github.com/Thilo277/FG-Photoscenery-FLIGHTGEAR
 
 
 .patch files automatically generated, no editing applied
